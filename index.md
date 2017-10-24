@@ -1,18 +1,15 @@
-# Q-SYDNEY.GITHUB.IO
-## HELLO WORLD!
-Welcome to my personal website!
-Thanks for stopping by!
+# HELLO WORLD!
 _Site under construction._
 
-### About Me
+# ABOUT
 
-### CS Projects
+# COMPUTER SCIENCE
 ```markdown
 ```
-### Motion Graphic Projects
-- [Link](url)
-### Graphic Design Projects
-- ![Image](src)
+# MOTION GRAPHICS
+[Link](url)
+# GRAPHIC DESIGN
+![Image](src)
 
-### Alt
-Site created 24 October 2017
+# ALT
+SRC: 24 October 2017
