@@ -16,8 +16,6 @@ _Site under construction._
 1. ![Image](src)
 2. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+### Info
+Site created 24 October 2017
+Github Pages Theme
