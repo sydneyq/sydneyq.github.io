@@ -1,0 +1,24 @@
+{
+  "name": "sydneyq-web-pkg",
+  "version": "1.0.0",
+  "description": "Sydney Chiou - Personal Website [Updated 26 March 2019]",
+  "main": "three.r92.min.js",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "eslint": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sydneyq/sydneyq.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sydneyq/sydneyq.github.io/issues"
+  },
+  "homepage": "https://github.com/sydneyq/sydneyq.github.io#readme"
+}
