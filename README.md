@@ -1,5 +1,5 @@
 # Sydney's Personal Website
-Updated 18 July 2020
+Updated 29 July 2020
 
 ### Tools
 * HTML
