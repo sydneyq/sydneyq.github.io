@@ -5,6 +5,7 @@ Updated 18 July 2020
 * HTML
 * CSS
 * JavaScript
+* AWS S3
 
 ### Credits
 Template 
